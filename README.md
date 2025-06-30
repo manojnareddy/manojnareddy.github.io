@@ -1,1 +1,1 @@
-# manojnareddy.github.io
+# Skin lesion classification
